@@ -1,6 +1,6 @@
 {
   "name": "wasdk-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Misc common utils for wasdk project.",
   "main": "./dist/index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "Yury Delendik",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wasdk/wasdk-utils"
+  },
   "devDependencies": {
     "@types/es6-promise": "0.0.32",
     "@types/node": "^7.0.5",
