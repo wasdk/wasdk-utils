@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "declaration": true,
+        "preserveConstEnums": true,
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "files": [
+        "src/index.ts",
+        "src/unpack.ts",
+        "src/download.ts"
+    ]
+}
